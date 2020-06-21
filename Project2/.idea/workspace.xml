@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Project2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1a6ef46-4438-4f41-a794-36ba615dcd79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d90wbt4Ja2zgFsHg8MrHic87CF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/.." />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="project2" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="CarPriceStats" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CarPriceStats" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarStats" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SparkProject" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.CarPriceStats" />
+        <item itemvalue="Application.CarStats" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Project2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="project2 [file:/Users/enkhjargalgansukh/Desktop/Project2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Project2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3183919903252" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2717761809" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1916534729" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a6ef46-4438-4f41-a794-36ba615dcd79" name="Default Changelist" comment="" />
+      <created>1591822241611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591822241611</updated>
+      <workItem from="1591822245991" duration="46120000" />
+      <workItem from="1592075383455" duration="1367000" />
+      <workItem from="1592077089240" duration="10800000" />
+      <workItem from="1592158720601" duration="4083000" />
+      <workItem from="1592185761312" duration="574000" />
+      <workItem from="1592186858756" duration="565000" />
+      <workItem from="1592187587805" duration="307000" />
+      <workItem from="1592245084513" duration="4301000" />
+      <workItem from="1592275481385" duration="1419000" />
+      <workItem from="1592359728070" duration="147000" />
+      <workItem from="1592449076315" duration="341000" />
+      <workItem from="1592450357650" duration="1250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1592077373245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1592077373245" />
+    <state x="578" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592449208045">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592449208045" />
+    <state x="632" y="447" width="416" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1591823375539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="632" y="447" width="416" height="159" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1591823375539" />
+    <state width="1638" height="562" key="GridCell.Tab.0.bottom" timestamp="1592452138049">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="562" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592452138049" />
+    <state width="1638" height="562" key="GridCell.Tab.0.bottom/0.23.1680.990@0.23.1680.990" timestamp="1592450678405" />
+    <state width="1638" height="562" key="GridCell.Tab.0.center" timestamp="1592452138048">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="562" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592452138048" />
+    <state width="1638" height="562" key="GridCell.Tab.0.center/0.23.1680.990@0.23.1680.990" timestamp="1592450678404" />
+    <state width="1638" height="562" key="GridCell.Tab.0.left" timestamp="1592452138047">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="562" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592452138047" />
+    <state width="1638" height="562" key="GridCell.Tab.0.left/0.23.1680.990@0.23.1680.990" timestamp="1592450678403" />
+    <state width="1638" height="562" key="GridCell.Tab.0.right" timestamp="1592452138048">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="562" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592452138048" />
+    <state width="1638" height="562" key="GridCell.Tab.0.right/0.23.1680.990@0.23.1680.990" timestamp="1592450678404" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1592109122349">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592109122349" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1592109122348">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592109122348" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1592109122348">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592109122348" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1592109122349">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592109122349" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1592319123843">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592319123843" />
+    <state x="421" y="250" width="837" height="550" key="find.popup" timestamp="1592254792498">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="421" y="250" width="837" height="550" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592254792498" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1592162952525">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1592162952525" />
+  </component>
+</project>
